@@ -1,6 +1,6 @@
-# portfolio
+# A Mobile PortFolio App
 
-A new Flutter project.
+DIgitial Portfolio App which can be used in your resume to enhance your skills and more chance of getting jobs
 
 ## Getting Started
 
